@@ -1,7 +1,5 @@
-#Comic Sans Coalition
+
 #Scenarios for drive tutor
-#Carley, Tsega, Max, Tylen, Liz
-#We have followed the academic dishonesty policy
 
  
 
